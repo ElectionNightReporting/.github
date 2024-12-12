@@ -1,5 +1,8 @@
 # Poll Tape Scanner for Election Night Reporting
 
+## Demo
+https://www.youtube.com/playlist?list=PLFkdnw7FLBcBenD3G70jNKQ9ueyYPid9W 
+
 ## Overview
 This project explores a novel approach to election-night reporting (ENR) using poll tape scanning technology. By leveraging mobile devices to capture and process poll tape data, we aim to bridge the gap between speed and security in preliminary election result reporting.
 
